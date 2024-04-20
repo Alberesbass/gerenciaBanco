@@ -1,5 +1,10 @@
 package com.mycompany.gerenciabanco;
 
+/**
+ *
+ * @author Alberes
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
