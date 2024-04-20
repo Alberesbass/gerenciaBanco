@@ -1,4 +1,4 @@
-package com.mycompany.gerenciabanco; // Correção do pacote
+package com.mycompany.gerenciabanco;
 
 import javax.swing.*;
 import java.awt.*;
