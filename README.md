@@ -1,6 +1,7 @@
 ### Atencão:
 Atualizei o projeto criando as telas de usuário (Front-end) utilizando a IDE VSCode
 
+<img src="./gerencia-de-banco.gif" alt="gif da tela do projeto">
 
 # AULA PRÁTICA - DISCIPLINA: Linguagem Orientada a Objetos
 
